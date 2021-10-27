@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: geturl
+Version: 0.2.1
+Summary: A CLI tool to get a public link for any file
+Home-page: https://github.com/uams/geturl
+Author: uams
+Author-email: uams@mit.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
